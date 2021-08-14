@@ -1,5 +1,5 @@
-# fichers écrits en latex qui peuvent être importés sur Moodle 
-Voir a syntax dans un des fichiers mais essentiellement il suffit d'inclure dans le header
+# Fichiers écrits en Latex qui peuvent être importés sur Moodle 
+Voir la syntax dans un des fichiers mais essentiellement il suffit d'inclure dans le header
 ```latex
 \usepackage{moodle}
 ```
